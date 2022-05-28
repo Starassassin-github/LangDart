@@ -18,5 +18,9 @@ void main() {
     print("no discount");
   }
 
+  if(!(product1 == "boba")) {
+    print("must buy boba");
+  }
+
   
 }
